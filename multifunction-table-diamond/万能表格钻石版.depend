@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1358318647 e:\c++\万能表格钻石版\main.cpp
+	<iostream>
+	<string>
+
+1497196404 source:e:\iceory\github-project\learningcplusplus\multifunction-table-diamond\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
