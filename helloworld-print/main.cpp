@@ -3,8 +3,6 @@
  * email: z.zhuangwei@mail.scut.edu.cn
  * last modified: 2017.6.11
  */
-/**
-*/
 
 #include <iostream>
 using namespace std;
