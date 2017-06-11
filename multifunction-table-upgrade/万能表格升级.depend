@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1357958648 e:\c++\万能表格升级\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+
+1497193777 source:e:\iceory\github-project\learningcplusplus\multifunction-table-upgrade\main.cpp
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<string>
+
