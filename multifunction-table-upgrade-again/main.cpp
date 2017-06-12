@@ -1,4 +1,4 @@
-/** print hello world on screen
+/** multi-function table upgrade upgrade version
  * author: ICEORY
  * email: z.zhuangwei@mail.scut.edu.cn
  * last modified: 2017.6.11
